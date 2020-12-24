@@ -7,7 +7,7 @@ sites:
   - name: TonyBark.com
     url: https://tonybark.com
   - name: TonyBark.com Nuget
-    url: https://nuget.tonybark.com
+    url: http://nuget.tonybark.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
