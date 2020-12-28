@@ -4,8 +4,6 @@ repo: status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: TonyBark.com
-    url: https://tonybark.com
   - name: TonyBark.com Nuget
     url: http://nuget.tonybark.com
 
@@ -15,9 +13,9 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: TonyBark.com Status
+  introTitle: TonyBark.com Status
+  introMessage: Based on [Uptime](https://github.com/upptime/upptime), this status page keeps track of varies services I have running.
   navbar:
     - title: Status
       href: /
