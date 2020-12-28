@@ -1,20 +1,20 @@
 [
   {
-    "name": "TonyBark.com Nuget",
+    "name": "Nuget Repository",
     "url": "http://nuget.tonybark.com",
     "icon": "https://favicons.githubusercontent.com/nuget.tonybark.com",
-    "slug": "tony-bark-com-nuget",
+    "slug": "nuget-repository",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 288,
-    "timeWeek": 174,
-    "timeMonth": 174,
-    "timeYear": 174,
+    "time": 226,
+    "timeDay": 226,
+    "timeWeek": 226,
+    "timeMonth": 226,
+    "timeYear": 226,
     "dailyMinutesDown": {}
   }
 ]
