@@ -4,7 +4,7 @@ repo: status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: TonyBark.com Nuget
+  - name: Nuget Repository
     url: http://nuget.tonybark.com
 
 status-website:
@@ -12,9 +12,9 @@ status-website:
   cname: status.tonybark.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: TonyBark.com Status
-  introTitle: TonyBark.com Status
+  logoUrl: https://raw.githubusercontent.com/tonytins/status/master/icon.svg
+  name: Tony Bark Network Status
+  introTitle: Tony Bark Network Status
   introMessage: Based on [Uptime](https://github.com/upptime/upptime), this status page keeps track of varies services I have running.
   navbar:
     - title: Status
