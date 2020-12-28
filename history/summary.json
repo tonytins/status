@@ -1,23 +1,5 @@
 [
   {
-    "name": "TonyBark.com",
-    "url": "https://tonybark.com",
-    "icon": "https://favicons.githubusercontent.com/tonybark.com",
-    "slug": "tony-bark-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 141,
-    "timeWeek": 120,
-    "timeMonth": 120,
-    "timeYear": 120,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "TonyBark.com Nuget",
     "url": "http://nuget.tonybark.com",
     "icon": "https://favicons.githubusercontent.com/nuget.tonybark.com",
@@ -28,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 125,
-    "timeDay": 158,
-    "timeWeek": 125,
-    "timeMonth": 125,
-    "timeYear": 125,
+    "time": 174,
+    "timeDay": 288,
+    "timeWeek": 174,
+    "timeMonth": 174,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   }
 ]
