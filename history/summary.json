@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/nuget.tonybark.com",
     "slug": "nuget-repository",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "72.80%",
+    "uptimeDay": "12.50%",
+    "uptimeWeek": "72.80%",
+    "uptimeMonth": "72.80%",
+    "uptimeYear": "72.80%",
     "time": 197,
-    "timeDay": 142,
+    "timeDay": 0,
     "timeWeek": 197,
     "timeMonth": 197,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2020-12-31": 0
+      "2021-01-01": 70,
+      "2020-12-31": 1190
     }
   }
 ]
