@@ -4,8 +4,8 @@ repo: status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Nuget Repository
-    url: http://nuget.tonybark.com
+  - name: Peertube Instance
+    url: https://video.tonybark.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
