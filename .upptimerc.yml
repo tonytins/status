@@ -4,7 +4,7 @@ repo: status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Peertube Instance
+  - name: Video Bark One
     url: https://video.tonybark.com
 
 status-website:
